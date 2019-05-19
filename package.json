@@ -4,7 +4,7 @@
   "description": "Arabic!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "concurrently \"nodemon dist/server.js\" \"tsc -p tsconfig.json --watch\""
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/kanija/arabic-ts#readme",
   "dependencies": {
+    "concurrently": "^4.1.0",
     "express": "^4.17.0",
+    "nodemon": "^1.19.0",
     "typescript": "^3.4.5"
   }
 }
