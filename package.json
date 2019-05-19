@@ -1,0 +1,20 @@
+{
+  "name": "arabic-ts",
+  "version": "1.0.0",
+  "description": "Arabic!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanija/arabic-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanija/arabic-ts/issues"
+  },
+  "homepage": "https://github.com/kanija/arabic-ts#readme"
+}
