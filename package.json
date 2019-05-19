@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kanija/arabic-ts/issues"
   },
-  "homepage": "https://github.com/kanija/arabic-ts#readme"
+  "homepage": "https://github.com/kanija/arabic-ts#readme",
+  "dependencies": {
+    "typescript": "^3.4.5"
+  }
 }
