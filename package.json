@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kanija/arabic-ts#readme",
   "dependencies": {
+    "express": "^4.17.0",
     "typescript": "^3.4.5"
   }
 }
